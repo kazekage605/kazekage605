@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+> I'm a FrontEnd Engineer
+
+- 📮 How to touch me: 354928594@qq.com
+
 <!--
 **kazekage605/kazekage605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +14,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📮 How to touch me: 354928594@qq.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kazekage605&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
